@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Half moon",
+  "base_artist": "ニイサヤカ",
+  "createdAt": "2025-12-05T13:38:32.200916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Half Moon",
+      "artist": "Dulcesky",
+      "has_synced": true,
+      "path": "select/01_Half_Moon_Dulcesky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Half Moon",
+      "artist": "Iron & Wine",
+      "has_synced": true,
+      "path": "select/02_Half_Moon_Iron_&_Wine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Half Moon Bay",
+      "artist": "Sun Kil Moon",
+      "has_synced": true,
+      "path": "select/03_Half_Moon_Bay_Sun_Kil_Moon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Half Moon",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/04_Half_Moon_The_5th_Dimension.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Half Moon",
+      "artist": "Janis Joplin",
+      "has_synced": true,
+      "path": "select/05_Half_Moon_Janis_Joplin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Half Moon",
+      "artist": "Diners",
+      "has_synced": false,
+      "path": "select/06_Half_Moon_Diners.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Half Moon",
+      "artist": "Blind Pilot",
+      "has_synced": true,
+      "path": "select/07_Half_Moon_Blind_Pilot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Half Moon In the Crescent City",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/08_Half_Moon_In_the_Crescent_City_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Half Moon Silver",
+      "artist": "Hotel",
+      "has_synced": false,
+      "path": "select/09_Half_Moon_Silver_Hotel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Half Moon",
+      "artist": "Janis Joplin",
+      "has_synced": true,
+      "path": "select/10_Half_Moon_Janis_Joplin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Half Moon (Live from \"The Dick Cavett Show\")",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/11_Half_Moon_(Live_from__The_Dick_Cavett_Show_)_Janis_Joplin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Half Moon (Live from The Dick Cavett Show)",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/12_Half_Moon_(Live_from_The_Dick_Cavett_Show)_Janis_Joplin.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Half Moon (Mono Single)",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/13_Half_Moon_(Mono_Single)_Janis_Joplin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Half moon",
+      "artist": "ニイサヤカ",
+      "has_synced": false,
+      "path": "select/pl_01_Half_moon_ニイサヤカ.txt"
+    }
+  ]
+}
